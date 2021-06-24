@@ -1,0 +1,7 @@
+{
+  "serverUrl": "http://a:b@192.168.1.160:5100",
+  "dbConfig":{
+    "dbType":"mysql",
+    "dbSource":"root:yqr@2017@tcp(192.168.110.220:3306)/btc_utxo_test?charset=utf8"
+  }
+}
